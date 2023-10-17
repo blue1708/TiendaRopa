@@ -1,0 +1,65 @@
+body{
+    background-position: center;
+}
+.NombrePagina{
+    color: white;
+    margin-left: 50px;
+}
+.casa{
+    margin-left: -20px;
+}
+.casa:hover, .nav-link:hover, .bi-person-circle:hover, .bi-cart4:hover{
+    color: #FA806B;
+}
+.nav-link{
+    color: white;
+}
+.logo{
+    height: 80px; 
+    width: auto;
+}
+.CentradoTitulo1{
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+    .card-title{
+        text-align: center;
+        font-size: 25px;
+    }
+    .card-text{
+        text-align: center;
+    }
+}
+.container-fluid{
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    margin-left: -20px;
+    .nav-item{
+        margin-inline: 10px;
+    }
+}
+.py-4{
+    text-align: center;
+}
+.bi-person-circle{
+    font-size: 20px   ;
+    margin-inline:30px;
+    margin-left: 15px;
+    color: white;
+}
+.bi-cart4{
+    font-size: 20px;
+    margin-left: 15px;
+    margin-right: 20px;
+    color: white;
+}
+.politicabody{
+    background-color: rgb(171, 158, 145);
+}
+.py-4{
+    background-color: rgb(193, 193, 193);
+}
+.dropdown-menu{
+    text-align: left;
+}
